@@ -9,7 +9,7 @@ name: Pharmacy Phorts
 description: Where a Community Pharmacist shares health and digital insights
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/Pharmacistdaz/master/images/PharmacyPhorts.png
+avatar: https://Pharmacistdaz.github.io
 
 #
 # Flags below are optional
@@ -39,7 +39,7 @@ url: https://pharmacistdaz.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# commented out by me baseurl: 
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
