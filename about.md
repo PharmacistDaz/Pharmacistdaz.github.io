@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Biography 
+
+I am a pharmacist based in the UK. 
 
 not much to add
 
