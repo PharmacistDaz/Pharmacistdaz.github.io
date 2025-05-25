@@ -6,6 +6,8 @@ permalink: /about/
 
 Some information about you!
 
+not much to add
+
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
