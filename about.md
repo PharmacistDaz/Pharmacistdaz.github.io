@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### Biography 
+### Biography
 
-I am a pharmacist based in the UK. 
-
-not much to add
+I am a community pharmacist based in the UK.
 
 ### More Information
 
@@ -16,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can find me on LinkedIn, X (Twitter) BlueSky and Mastodon
